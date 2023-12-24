@@ -5,7 +5,7 @@ extern "C"
     int PrimeCount(int A, int B);
 }
 
-extern "C"
+extern "C" 
 {
-    float E(int x);
+    char* translation(long long X);
 }
